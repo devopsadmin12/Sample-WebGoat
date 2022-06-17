@@ -49,7 +49,7 @@ import org.slf4j.LoggerFactory;
  *
  * Getting Source ==============
  *
- * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repository
+ * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repositor
  * for free software projects.
  *
  * For details, please see http://webgoat.github.io
