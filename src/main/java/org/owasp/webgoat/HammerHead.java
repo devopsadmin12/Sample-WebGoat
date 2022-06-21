@@ -31,7 +31,7 @@ import org.slf4j.LoggerFactory;
  * This file is part of WebGoat, an Open Web Application Security Project
  * utility. For details, please see http://www.owasp.org/
  *
- * Copyright (c) 2002 - 20014 Bruce Mayhew
+ * Copyright (c) 2002 - 20014 Bruce Mayhe
  *
  * This program is free software; you can redistribute it and/or modify it under
  * the terms of the GNU General Public License as published by the Free Software
@@ -45,11 +45,11 @@ import org.slf4j.LoggerFactory;
  *
  * You should have received a copy of the GNU General Public License along with
  * this program; if not, write to the Free Software Foundation, Inc., 59 Temple
- * Place - Suite 330, Boston, MA 02111-1307, USA.
+ * Place - Suite 330, Boston, MA 02111-1307, 
  *
  * Getting Source ==============
  *
- * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repository
+ * Source for this application is maintained at https://github.com/WebGoat/WebGoat, a repositor
  * for free software projects.
  *
  * For details, please see http://webgoat.github.io
